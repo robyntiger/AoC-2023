@@ -427,4 +427,4 @@ FodyWeavers.xsd
 # Make the repo prettier
 *.filters
 *.vcxproj
-.sln
+*.sln
