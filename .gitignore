@@ -423,8 +423,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-# Make the repo prettier
-*.filters
-*.vcxproj
-*.sln
