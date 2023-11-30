@@ -4,8 +4,8 @@
 
 ## C++ Solutions
 
-Day | Part 1 Time | Part 2 Time | Overall Execution Time (s) | Global Rank
---- | ----------- | ----------- | -------------------------- | -----------
+Day | Puzzle | C++ Solutions | Input | Part 1 Time | Part 2 Time | Overall Execution Time (s) |
+--- | ------ | ------------- |------ | ----------- | ----------- | -------------------------- |
 
 ## Unreal BP Solutions
 I saw this as a chance to improve my skills in using blueprints. My approach involved first solving the issue using C++ and then developing the blueprint based on the C++ solution.
