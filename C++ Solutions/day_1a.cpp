@@ -5,7 +5,7 @@
 
 #include <string>
 
-void main2(){
+int main(){
     // Read file
     std::ifstream MyReadFile("day_1.txt");
     std::string line;
