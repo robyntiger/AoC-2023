@@ -11,6 +11,8 @@
 
 #include <algorithm>
 
+#include <list>
+
 int findNumOfWins(std::string line){
     int num = 0;
 
@@ -74,7 +76,7 @@ int main(){
         scratchcardsWins.push_back(findNumOfWins(scratchcards.at(i)));
     }
 
-    std::vector<int> myMap;
+    std::list<int> myMap;
 
     for (int j = 0; j < scratchcards.size(); j++){
         points++;
@@ -90,15 +92,15 @@ int main(){
     }
 
     while (myMap.size() > 0){
-        int winValue = scratchcardsWins.at(myMap.at(0));
+        int winValue = scratchcardsWins.at(myMap.front());
         for (int i = 0; i < winValue; i++){
-            if (myMap.at(0)+i+1 < scratchcards.size()){
-                myMap.push_back(myMap.at(0)+i+1);
+            if (myMap.front()+i+1 < scratchcards.size()){
+                myMap.push_back(myMap.front()+i+1);
             }
             points++;
         }
         
-        myMap.erase(myMap.begin());
+        myMap.pop_front();
     }
 
     std::cout << points;
