@@ -16,7 +16,11 @@ Puzzle | Input | C++ Solutions | Part 1 Time | Part 1 Rank | Part 2 Time | Part 
 [Day 8](https://adventofcode.com/2023/day/8)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_8.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8b.cpp) | 06:17:17 | 32351 | 09:17:55 | 26771 |
 
 \* Keep in mind times are based on the time of puzzle release to completion and I didn't start working on the puzzles as soon as they were released.
+
+![image](https://github.com/robyntiger/AoC-2023/assets/24257167/0c4ac6b8-3548-4efb-86ff-7191361a3db9)
+
 ## Solution Running TIme
+
 Puzzle | Time (μs) |
 ------ | --------- |
 Day 1, part 1 | 1993 |
@@ -35,3 +39,6 @@ Day 7, part 1 | 520587 |
 Day 7, part 2 | 546704 |
 Day 8, part 1 | 6705123 |
 Day 8, part 2 | 134587 |
+
+![image](https://github.com/robyntiger/AoC-2023/assets/24257167/1de52c94-b4fc-4591-8803-d8bd13b01e2f)
+
