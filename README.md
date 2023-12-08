@@ -2,7 +2,7 @@
 
 🎄 🎅 🤶 🦌 This repository is dedicated to my personal solutions for the Advent of Code 2023! 🎁 ⛄ ❄️ 🍪
 
-## C++ Solutions
+## C++ Solutions*
 
 Puzzle | Input | C++ Solutions | Part 1 Time | Part 1 Rank | Part 2 Time | Part 2 Rank |
 ------ | ----- | ------------- | ----------- | ----------- | ----------- | ----------- |
@@ -13,3 +13,6 @@ Puzzle | Input | C++ Solutions | Part 1 Time | Part 1 Rank | Part 2 Time | Part 
 [Day 5](https://adventofcode.com/2023/day/5)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_5.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_5a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_5b.cpp) | 08:42:12 | 36392 | >24h | 46762 |
 [Day 6](https://adventofcode.com/2023/day/6)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_6.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_6a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_6b.cpp) | 11:10:42 | 48798 | 11:24:28 | 47771 |
 [Day 7](https://adventofcode.com/2023/day/7)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_7.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_7a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_7b.cpp) | 06:48:38 | 27926 | 09:07:38 | 27276 |
+[Day 8](https://adventofcode.com/2023/day/8)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_8.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8b.cpp) | 06:17:17 | 32351 | 09:17:55 | 26771 |
+
+\* Keep in mind times are based on time of puzzle release -> completion and I didn't start working on the puzzles as soon as they were released.
