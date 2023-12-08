@@ -17,7 +17,7 @@ Puzzle | Input | C++ Solutions | Part 1 Time | Part 1 Rank | Part 2 Time | Part 
 
 \* Keep in mind times are based on the time of puzzle release to completion and I didn't start working on the puzzles as soon as they were released.
 
-![image](https://github.com/robyntiger/AoC-2023/assets/24257167/0c4ac6b8-3548-4efb-86ff-7191361a3db9)
+![image](https://github.com/robyntiger/AoC-2023/assets/24257167/57401376-88a0-4f34-a343-928764e8b13a)
 
 ## Solution Running TIme
 
@@ -40,5 +40,6 @@ Day 7, part 2 | 546704 |
 Day 8, part 1 | 6705123 |
 Day 8, part 2 | 134587 |
 
-![image](https://github.com/robyntiger/AoC-2023/assets/24257167/1de52c94-b4fc-4591-8803-d8bd13b01e2f)
+![image](https://github.com/robyntiger/AoC-2023/assets/24257167/265f7d06-3d93-4527-ac27-200894acd85f)
+
 
