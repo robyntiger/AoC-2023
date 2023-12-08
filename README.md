@@ -15,4 +15,23 @@ Puzzle | Input | C++ Solutions | Part 1 Time | Part 1 Rank | Part 2 Time | Part 
 [Day 7](https://adventofcode.com/2023/day/7)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_7.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_7a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_7b.cpp) | 06:48:38 | 27926 | 09:07:38 | 27276 |
 [Day 8](https://adventofcode.com/2023/day/8)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_8.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8b.cpp) | 06:17:17 | 32351 | 09:17:55 | 26771 |
 
-\* Keep in mind times are based on time of puzzle release -> completion and I didn't start working on the puzzles as soon as they were released.
+\* Keep in mind times are based on the time of puzzle release to completion and I didn't start working on the puzzles as soon as they were released.
+## Solution Running TIme
+Puzzle | Time (μs) |
+------ | --------- |
+Day 1, part 1 | 1993 |
+Day 1, part 2 | 473586 |
+Day 2, part 1 | 40652 |
+Day 2, part 2 | 43167 |
+Day 3, part 1 | 5436 |
+Day 3, part 2 | 5224 |
+Day 4, part 1 | 14559 |
+Day 4, part 2 | 10672 |
+Day 5, part 1 | 1994 |
+Day 5, part 2 | 3077 |
+Day 6, part 1 | 506 |
+Day 6, part 2 | 202165 |
+Day 7, part 1 | 520587 |
+Day 7, part 2 | 546704 |
+Day 8, part 1 | 6705123 |
+Day 8, part 2 | 134587 |
