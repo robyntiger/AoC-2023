@@ -14,10 +14,9 @@ Puzzle | Input | C++ Solutions | Part 1 Time | Part 1 Rank | Part 2 Time | Part 
 [Day 6](https://adventofcode.com/2023/day/6)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_6.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_6a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_6b.cpp) | 11:10:42 | 48798 | 11:24:28 | 47771 |
 [Day 7](https://adventofcode.com/2023/day/7)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_7.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_7a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_7b.cpp) | 06:48:38 | 27926 | 09:07:38 | 27276 |
 [Day 8](https://adventofcode.com/2023/day/8)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_8.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_8b.cpp) | 06:17:17 | 32351 | 09:17:55 | 26771 |
+[Day 9](https://adventofcode.com/2023/day/9)| [Link](https://github.com/robyntiger/AoC-2023/blob/main/Input%20Files/day_9.txt) | [Part 1](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_9a.cpp) , [Part 2](https://github.com/robyntiger/AoC-2023/blob/main/C%2B%2B%20Solutions/day_9b.cpp) | 06:28:16 | 26067 | 07:04:04 | 26428 |
 
 \* Keep in mind times are based on the time of puzzle release to completion and I didn't start working on the puzzles as soon as they were released.
-
-![image](https://github.com/robyntiger/AoC-2023/assets/24257167/57401376-88a0-4f34-a343-928764e8b13a)
 
 ## Solution Running TIme
 
@@ -39,7 +38,8 @@ Day 7, part 1 | 520587 |
 Day 7, part 2 | 546704 |
 Day 8, part 1 | 6705123 |
 Day 8, part 2 | 134587 |
+Day 9, part 1 | 5095 |
+Day 9, part 2 | 7392 |
 
-![image](https://github.com/robyntiger/AoC-2023/assets/24257167/265f7d06-3d93-4527-ac27-200894acd85f)
 
 
